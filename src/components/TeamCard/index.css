@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.team-card {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.team-img {
+  width: 300px;
+}
+
+.link-item {
+  display: flex;
+}
